@@ -2,7 +2,7 @@ public class master {
 
 	public static void main(String[] args) {
 		
-		//LetterInventory invent = new LetterInventory("Hello World");
+		LetterInventory invent = new LetterInventory("Hello World");
 		
 		//System.out.println(invent.get('a'));
 		
@@ -21,5 +21,4 @@ public class master {
 		System.out.println(subtracted.toString());*/
 
 	}
-
 }
